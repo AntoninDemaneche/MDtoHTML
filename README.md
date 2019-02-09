@@ -1,4 +1,5 @@
 # MDtoHTML
+Ce projet est sous license publique Mozilla 2.0.
 
 ## Comment ca marche ?
 
