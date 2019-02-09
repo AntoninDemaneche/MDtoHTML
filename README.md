@@ -20,7 +20,7 @@ Pour lancer le convertisseur il suffit de créer un (ou plusieurs fichiers) au f
 python converter.py
 ```
 
-Il suffit d'y ajouter des arguments, accessibles via --help à la suite de la commande si dessus.
+Il suffit d'y ajouter des arguments, accessibles via --help à la suite de la commande ci dessus.
 
 * Voici la liste des arguments ici :
 
