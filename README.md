@@ -24,7 +24,13 @@ Il suffit d'y ajouter des arguments, accessibles via --help à la suite de la co
 Voici la liste des arguments ici :
 
 --dir ( Permet à l'utilisateur de convertir tous les fichiers MD d'un dossier avec une seule commande )
+
+
 --i ( Si l'utilisateur veut préciser un fichier à convertir en particulier )
+
+
 --o ( La commande permettant de choisir la destination du fichier HTML sortant )
+
+
 --title ( Commande permettant de changer le titre de ses page HTML converties )
 
