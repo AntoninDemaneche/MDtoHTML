@@ -21,16 +21,16 @@ python converter.py
 
 Il suffit d'y ajouter des arguments, accessibles via --help à la suite de la commande si dessus.
 
-Voici la liste des arguments ici :
+* Voici la liste des arguments ici :
 
---dir ( Permet à l'utilisateur de convertir tous les fichiers MD d'un dossier avec une seule commande )
-
-
---i ( Si l'utilisateur veut préciser un fichier à convertir en particulier )
+  * --dir ( Permet à l'utilisateur de convertir tous les fichiers MD d'un dossier avec une seule commande )
 
 
---o ( La commande permettant de choisir la destination du fichier HTML sortant )
+  * --i ( Si l'utilisateur veut préciser un fichier à convertir en particulier )
 
 
---title ( Commande permettant de changer le titre de ses page HTML converties )
+  * --o ( La commande permettant de choisir la destination du fichier HTML sortant )
+
+
+  * --title ( Commande permettant de changer le titre de ses page HTML converties )
 
