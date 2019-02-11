@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="mdtohtmlfromju",
-    version="1.0.0",
+    version="1.0.1",
     author="Julien Castera",
     author_email="onair921@gmail.com",
     description="A small package which convert markdown to HTML",
