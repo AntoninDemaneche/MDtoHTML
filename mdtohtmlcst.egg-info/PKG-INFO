@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: mdtohtml-cst
-Version: 0.0.1
+Name: mdtohtmlcst
+Version: 1.0.0
 Summary: A small package which convert markdown to HTML
 Home-page: https://github.com/JulienCASTERA/MDtoHTML
 Author: Julien Castera

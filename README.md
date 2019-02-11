@@ -40,5 +40,5 @@ Il suffit d'y ajouter des arguments, accessibles via --help à la suite de la co
 Vous pouvez retrouver le package en tapant cette commande afin de l'utiliser dans d'autres projets :
 
 ```
-pip install mdtohtml-cst
+pip install mdtohtmlfromju
 ```

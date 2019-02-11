@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="mdtohtml_cst",
-    version="0.0.1",
+    name="mdtohtmlfromju",
+    version="1.0.0",
     author="Julien Castera",
     author_email="onair921@gmail.com",
     description="A small package which convert markdown to HTML",
