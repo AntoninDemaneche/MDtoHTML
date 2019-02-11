@@ -3,9 +3,9 @@ import os
 import click
 
 @click.command()
-@click.option("--dir", default = '', help = "Dossier ou sont les fichiers à convertir")
+@click.option("--dir","--input_directory", default = '', help = "Dossier ou sont les fichiers à convertir")
 @click.option("--i", default = '', help = "Fichier markdown à préciser")
-@click.option("--o", default = 'result', help = "Dossier ou le HTML va se créer")
+@click.option("--o","--output_directory", default = 'result', help = "Dossier ou le HTML va se créer")
 @click.option("--title", default = 'Site Statique', help = "Titre de la page ou le HTML va se créer")
 
 def converter(dir,i,o,title):
