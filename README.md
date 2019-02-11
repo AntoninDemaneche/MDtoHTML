@@ -43,6 +43,12 @@ Vous pouvez retrouver le package en tapant cette commande afin de l'utiliser dan
 pip install mdtohtmlfromju
 ```
 
+Lien vers le package :
+
+
+https://pypi.org/project/mdtohtmlfromju/
+
+
 Si vous vous retrouvez avec ceci, c'est que le package est bien installé :
 
 ```
