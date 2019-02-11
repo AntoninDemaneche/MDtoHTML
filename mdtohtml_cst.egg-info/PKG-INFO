@@ -1,0 +1,51 @@
+Metadata-Version: 2.1
+Name: mdtohtml-cst
+Version: 0.0.1
+Summary: A small package which convert markdown to HTML
+Home-page: https://github.com/JulienCASTERA/MDtoHTMLt
+Author: Julien Castera
+Author-email: onair921@gmail.com
+License: UNKNOWN
+Description: # MDtoHTML
+        Ce projet est sous license publique Mozilla 2.0.
+        
+        ## Comment ca marche ?
+        
+        C'est trÃ¨s simple, il suffit d'installer le programme et ses addons.
+        
+        Pour installer les addons, il faut ouvrir un terminal de commande et Ã©crire :
+        
+        Veillez Ã  modifier FOLDER_PATH par le chemin d'accÃ¨s du dossier ou vous avez installÃ© le MDtoHTML.
+        
+        ```
+        cd FOLDER_PATH
+        pip install -r requirements.txt
+        ```
+        
+        Pour lancer le convertisseur il suffit de crÃ©er un (ou plusieurs fichiers) au format **.MD** dans un dossier quelconque et de lancer le programme dans un terminal.
+        
+        ```
+        python converter.py
+        ```
+        
+        Il suffit d'y ajouter des arguments, accessibles via --help Ã  la suite de la commande ci dessus.
+        
+        * Voici la liste des arguments ici :
+        
+          * --dir **OU** --input_directory ( Permet Ã  l'utilisateur de convertir tous les fichiers MD d'un dossier avec une seule commande )
+        
+        
+          * --i ( Si l'utilisateur veut prÃ©ciser un fichier Ã  convertir en particulier )
+        
+        
+          * --o **OU** --output_directory ( La commande permettant de choisir la destination du fichier HTML sortant )
+        
+        
+          * --title ( Commande permettant de changer le titre de ses page HTML converties )
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
