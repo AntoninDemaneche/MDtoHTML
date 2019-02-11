@@ -11,7 +11,7 @@ setuptools.setup(
     description="A small package which convert markdown to HTML",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/JulienCASTERA/MDtoHTMLt",
+    url="https://github.com/JulienCASTERA/MDtoHTML",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
