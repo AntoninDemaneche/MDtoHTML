@@ -42,3 +42,13 @@ Vous pouvez retrouver le package en tapant cette commande afin de l'utiliser dan
 ```
 pip install mdtohtmlfromju
 ```
+
+Si vous vous retrouvez avec ceci, c'est que le package est bien installé :
+
+```
+pip install mdtohtmlfromju
+Collecting mdtohtmlfromju
+  Downloading https://files.pythonhosted.org/packages/2e/88/908b916ea18fddeb6855a328b8d9d8618203d7b379c0267ec5910db717d9/mdtohtmlfromju-1.0.0-py3-none-any.whl
+Installing collected packages: mdtohtmlfromju
+Successfully installed mdtohtmlfromju-1.0.0
+```
